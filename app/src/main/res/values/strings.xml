@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Fani Furniture</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="profile_page">Profile page</string>
+    <string name="cart_page">Cart page</string>
+    <string name="search_page">Search page</string>
+    <string name="home_page">Home page</string>
+    <string name="title_activity_on_boarding">OnBoardingActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
